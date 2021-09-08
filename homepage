@@ -1,0 +1,118 @@
+<!-- Document Type Opening -->
+
+<!DOCTYPE html>
+<html>
+
+<!-- Customisation -->
+
+  <body bgcolor = "Grey" text = "Black">
+    <style>
+        body {
+                font-family: 'Courier New', Courier, monospace;
+                background-image: url(https://cdn.discordapp.com/attachments/695987751279132682/884820256978243694/R.png);
+                background-size: cover;
+             }
+    </style>
+
+<!-- Header -->
+
+    <center>
+      <title> ZUCK - Home </title>
+      <div> <!--a href = "domain name" | onClick="window.location.href=window.location.href">-->
+      <button onClick="window.location.href=window.location.href"><img width="120" height="100" src="zuck.png" alt="Logo"></button>
+      </div>
+      <h1> <font size = 50> ZUCK </h1> 
+      <hr size = 5 width = 1750 color = "Grey">
+      <body>UNDER CONSTRUCTION</body></font>
+      <br>
+
+<!-- On.Click -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+                <style>
+                .btn {
+                background-color: rgba(255, 255, 255, 0.322);
+                border: none;
+                color: black;
+                padding: 12px 16px;
+                font-size: 16px;
+                cursor: pointer;
+                }
+                .btn:hover {
+                background-color: rgba(255, 255, 255, 0.089);
+                }
+                </style>
+                <body>
+                <button class="btn"></i>Home</button>
+                <button class="btn"></i>Games</button>
+                <button class="btn"></i>Shop</button>
+                <button class="btn">Contact Us</button>
+                <button class="btn">Login/SignUp</button>
+                </body>
+                
+<!-- Form -->
+
+    <p>
+    <form action="" method="get" class="form-example">
+        <div class="form-example">
+          <label for="name">Enter your username: </label>
+          <input type="text" name="name" id="name" required
+           minlength="3", maxlength="16">
+        </div>
+        <div class="form-example">
+          <label for="email">Enter your email address: </label>
+          <input type="email" name="email" id="email" required>
+        </div>
+        <div class="form-example">
+            <label for="email">Enter your password: </label>
+            <input type="password" name="password" id="password" required
+            minlength="8">
+          </div>
+        <div class="form-example">
+          <input type="submit" value="Login!">
+        </div>
+      </form>
+    </p>
+
+<!-- Context -->
+
+    <p>Hello! Welcome to this website where you can find dadmompubg here so smh i was just writing random words to test smt.</p>
+    <p>Check out our videos!!!</p>
+    <p>AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH</p>
+    <br>
+    <h3> Click <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">here</a> to visit YT video! </h3>
+    <br>
+
+<!-- On.Click -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+            <style>
+            .btn {
+            background-color: rgba(255, 255, 255, 0.322);
+            border: none;
+            color: black;
+            padding: 12px 16px;
+            font-size: 16px;
+            cursor: pointer;
+            }
+            .btn:hover {
+            background-color: rgba(255, 255, 255, 0.089);
+            }
+            </style>
+            </head>
+            <body>
+            <button class="btn">Term of Service</button>
+            <button class="btn">Privacy</button>
+            <button class="btn">About Us</button>
+            <hr size = 3 width = 500 color = "Grey">
+
+<!-- Footer -->
+
+      <footer><h4>Copyrighted by 2021 ZUCK</h4></footer>
+    </center>
+
+<!-- Document Type Closing -->
+
+  </body>
+</html>
